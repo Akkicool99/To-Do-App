@@ -20,4 +20,4 @@ CTRL + C in the terminal
 # Editing, deleting and adding Page
 ![image alt](https://github.com/Akkicool99/To-Do-App/blob/5b2df1a4165f7b019a0edbc3770fa3547f5a70c5/Screenshot%202025-05-26%20162917.png)
 github link for the project
-https://github.com/Akkicool99/To-Do-App/tree/main
+[https://github.com/Akkicool99/To-Do-App/tree/main](https://github.com/Akkicool99/To-Do-App)
